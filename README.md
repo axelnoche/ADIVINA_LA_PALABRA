@@ -1,1 +1,1 @@
-# ADIVINA_LA_PALABRA
+# adivina-la-palabra
